@@ -4,7 +4,7 @@ I built this app using React, to see and interact with it, copy the https link u
 
 ### `git clone https://github.com/zadolphe/robofriends.git`
 ### `npm start`
-Note: you might need to run npm install prior to npm start
+Note: you might need to run npm install prior to npm start and also assumes you have node installed (likely globally) on your machine.
 
 This runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
