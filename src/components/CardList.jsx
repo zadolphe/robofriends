@@ -4,6 +4,9 @@ import Card from "./Card";
 
 const CardList = ({ robots }) => {
     //const { name, email } = props;
+    // if (true){
+    //     throw new Error("Oh noo, there was a problem");
+    // }
     return (
         <div>{
             robots.map((robot, index) => {
