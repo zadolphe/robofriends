@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/zadolphe/robofriends.git/static/css/main.744f5719.css",
-    "main.js": "/zadolphe/robofriends.git/static/js/main.176e9cd4.js",
+    "main.js": "/zadolphe/robofriends.git/static/js/main.9127801d.js",
     "index.html": "/zadolphe/robofriends.git/index.html",
     "main.744f5719.css.map": "/zadolphe/robofriends.git/static/css/main.744f5719.css.map",
-    "main.176e9cd4.js.map": "/zadolphe/robofriends.git/static/js/main.176e9cd4.js.map"
+    "main.9127801d.js.map": "/zadolphe/robofriends.git/static/js/main.9127801d.js.map"
   },
   "entrypoints": [
     "static/css/main.744f5719.css",
-    "static/js/main.176e9cd4.js"
+    "static/js/main.9127801d.js"
   ]
 }
