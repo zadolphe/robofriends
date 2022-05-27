@@ -1,6 +1,6 @@
 # Robofriends: A random robot generator using public url api 
 
-To get start, copy the https link under code tab in github. Open a directory/folder and run:
+To see this app and interact with it, copy the https link under code tab in github. Open a directory/folder and run:
 
 ### `git clone https://github.com/zadolphe/robofriends.git`
 ### `npm start`
