@@ -1,0 +1,11 @@
+/* @font-face {
+    font-family: 'SEGA LOGO FONT';
+    src: local('SEGA LOGO FONT'), url('BebasNeue-Regular.ttf') format('ttf');
+  } */
+  
+
+  h1 {
+      
+      font-weight: 400;
+      color: #0ccac4;
+  }
