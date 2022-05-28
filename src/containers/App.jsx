@@ -19,6 +19,7 @@ class App extends React.Component {
     }
 
     componentDidMount(){
+        //this is an ajax request
         console.log("mount");
         fetch('https://jsonplaceholder.typicode.com/users')
         .then(response => response.json()) 
