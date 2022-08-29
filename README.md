@@ -1,6 +1,6 @@
 # Robofriends: A random robot generator using public url api 
 
-I built this app using React, to see and interact with it, [find the live deployment here](https://zadolphe.github.io/robofriends/)
+I built this app using React, to see and interact with it, [find the live deployment here](https://zadolphe.github.io/robofriends/) or
 copy the https link under code tab in github. Open a directory/folder and run:
 
 ### `git clone https://github.com/zadolphe/robofriends.git`
